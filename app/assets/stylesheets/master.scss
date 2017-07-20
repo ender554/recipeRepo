@@ -54,3 +54,27 @@ h1, h2, h3, h4, h5, h6, .navbar {
 .btn {
   border-radius: 0;
 }
+
+.feature {
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+
+}
+
+body {
+  background: image_url('bg.png');
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+}
+
+.features {
+    
+  border-style: double;
+  border-width: 5px;
+  border-color: white;
+  border-radius: 15%;
+  padding-top: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+  box-shadow: 0px 3px 8px #2a2a2a
+}
